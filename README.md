@@ -18,6 +18,10 @@ expands through geometric, motion, quantum, and physical layers, then compiles
 its pristine internal values down to familiar laboratory numbers (α ≈ 1/137.036,
 c = 299,792,458 m/s) through a final interface layer.
 
+A closed-loop framework that reconciles the constants of Western empirical
+science with a bounded, self-contained generative architecture. Offered freely
+as a lens. Do with it as you choose.
+
 ## What this is NOT
 
 This is **not** a claim to have derived the constants of nature, overturned
