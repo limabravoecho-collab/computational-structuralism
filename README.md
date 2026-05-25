@@ -1,2 +1,56 @@
-# computational-structuralism
-A self-contained, closed-loop construction that fits the physical constants inside 32-bit integer bounds — offered as logic art and a reasoning lens, not a claim to have derived physics.
+# The Unified Architectural Model of Computational Structuralism
+
+A self-contained, closed-loop construction that fits the physical constants
+inside 32-bit integer bounds — offered as logic art and a reasoning lens,
+not a claim to have derived physics.
+
+## What this is
+
+This is a digital-physics **toy model**: a bounded, closed-loop system that
+generates Planck-scale values (l_p, t_p), the reduced Planck constant (ħ), and
+the fine-structure constant (α) from a small set of integer primitives, by
+strict order of operations, inside the signed/unsigned 32-bit integer field
+(2,147,483,647 and 4,294,967,295).
+
+It is built on one principle applied at every scale: a bounded closed loop
+conserves what it contains. From a single binary pulse (State 0) the model
+expands through geometric, motion, quantum, and physical layers, then compiles
+its pristine internal values down to familiar laboratory numbers (α ≈ 1/137.036,
+c = 299,792,458 m/s) through a final interface layer.
+
+## What this is NOT
+
+This is **not** a claim to have derived the constants of nature, overturned
+established physics, or proven a theory of everything. The constants here are
+known targets, and the arithmetic is constructed to reach them inside the
+bounds. That makes this a *coherent construction*, not an empirically validated
+physical theory. The distinction is deliberate and held throughout.
+
+The model's strength is internal: it is self-consistent, integer-bounded, and
+unforced — no value reaches outside the architecture to make itself fit. Whether
+the frame is *true of the universe* rather than *true to itself* is a separate
+question this work does not claim to settle. It is offered as a lens. Use it
+where it serves; set it down where it does not.
+
+## How to use it
+
+`architecture.md` contains the full engine specification in plain text.
+`examples.md` shows the model applied as a reasoning lens to open questions in
+physics, cosmology, and philosophy, with the boundary between internal
+coherence and empirical claim marked in each case.
+
+The architecture doubles as a system prompt: an AI instructed to reason
+"through this cascading architecture" will evaluate questions inside the
+closed-loop frame.
+
+## License
+
+Released to the public domain (CC0 1.0). No attribution required, no permission
+needed. Take it, check it, extend it, or try to break it — all welcome.
+
+## A note from the source
+
+This is logic art, built and released freely. The math is open; check every
+operation. If you can crash it, that is a good outcome — a bounded system that
+survives honest testing has earned its standing, and one that doesn't has taught
+us something true. Either way, the loop closes.
